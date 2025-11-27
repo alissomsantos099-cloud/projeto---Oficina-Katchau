@@ -156,7 +156,3 @@ documentacao_servicos.zip – Documentação completa para download
 Alisson D S Ferreira
 Estudante de Análise e Desenvolvimento de Sistemas
 Projeto desenvolvido como parte da avaliação acadêmica e aprimoramento profissional.
-
-🌐 Conecte-se Comigo
-
-🔗 LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN
