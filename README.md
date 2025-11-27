@@ -77,8 +77,6 @@ Fluxograma (Mermaid)
 
 Descrição Algorítmica (Portugol)
 
-ZIP consolidado para download
-
 🛠️ Tecnologias Utilizadas
 💻 Front-end
 
@@ -107,7 +105,9 @@ Consultas com INNER JOIN
 XAMPP (Apache + MySQL)
 
 🚀 Como Executar o Projeto
+
 1️⃣ Clone este repositório
+
 git clone https://github.com/SEU-USUARIO/oficina-katchau.git
 
 2️⃣ Configure o Banco de Dados
